@@ -1,4 +1,4 @@
-# Data insigths 
+# Data insights 
 
 ## 1.) Overall sentiment around the product
 
